@@ -2,17 +2,6 @@
 
 ♻️ NewsApi - é uma api que utiliza a api do "NewsApi" para obter as noticias do dia.
 
-As empresas ou entidades poderão se cadastrar na plataforma web enviando:
-- uma imagem do ponto de coleta
-- nome da entidade, email e whatsapp
-- além de selecionar um ou mais ítens de coleta: 
-  - lâmpadas
-  - pilhas e baterias
-  - papéis e papelão
-  - resíduos eletrônicos
-  - resíduos orgânicos
-  - óleo de cozinha
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
