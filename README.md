@@ -1,6 +1,6 @@
 ## 💻 Sobre o projeto
 
-♻️ NewsApi - é uma api que utiliza a api do "NewsApi" para obter as noticias do dia.
+📰 NewsApi - é uma api que utiliza a api do "NewsApi" para obter as noticias do dia.
 
 ## 🛠 Tecnologias
 
